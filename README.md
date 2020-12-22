@@ -16,7 +16,7 @@ or
 yarn
 ```
 
-## Provided Scripts
+## Provided Scripts code
 
 Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
 
